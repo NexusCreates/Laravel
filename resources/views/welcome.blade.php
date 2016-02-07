@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">omaple.xyz</div>
+                <div class="title">nexusin.space</div>
             </div>
         </div>
     </body>
